@@ -14,10 +14,12 @@ Frontend
 - Vue.js
 - HTML/CSS
 - JavaScript
+
 Backend
 - Node.js
 - Express.js
 - Fetch API
+
 Others
 - MySQL
 - Socket.io
