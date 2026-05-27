@@ -29,6 +29,7 @@ Installation & Setup
 2. Backend setup
    - cd football-prediction
    - npm install
+   - install database.sql
    - register at https://api.football-data.org and get api token
    - replace api token in index.js
    - run node index.js
