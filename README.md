@@ -18,8 +18,9 @@ Backend
 - Node.js
 - Express.js
 - Fetch API
-Database
+Others
 - MySQL
+- Socket.io
 
 Installation & Setup
 1. Clone the repository
