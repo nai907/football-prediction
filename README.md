@@ -3,11 +3,11 @@ A full-stack web application that allows users to guess the scores of past Engli
 Built with Vue.js (frontend) and Node.js/Express (backend).
 
 Features:
-Random matchday selection
-Submit match score predictions
-Simple leaderboard system
-API integration with football data provider
-Responsive User Interface
+- Random matchday selection
+- Submit match score predictions
+- Simple leaderboard system
+- API integration with football data provider
+- Responsive User Interface
 
 Tech Stack:
 Frontend
