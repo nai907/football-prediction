@@ -198,7 +198,7 @@ const app = Vue.createApp({
         <h1 class="text-center mb-3">{{ message }}</h1>
 
         <p class="text-center">Score: {{ score }}</p>
-        <p class="text-center text-white-50">English Premier League season 2025/2026</p>
+        <p class="text-center text-white">English Premier League season 2025/2026</p>
 
         <p class="text-center">Matchday: {{ currentMatchday }}</p>
 
