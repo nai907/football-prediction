@@ -1,3 +1,5 @@
+Deployed Link: https://football-prediction-main.vercel.app
+
 Football prediction game
 A full-stack web application that allows users to guess the scores of past English Premier League season 2025/2026 football matches.
 Built with Vue.js (frontend) and Vercel serverless functions (backend).
